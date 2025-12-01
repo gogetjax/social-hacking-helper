@@ -10,11 +10,11 @@ patterns common among bad actors attempting to social engineer
 a help desk operator within an organization.
 
 ## Architecture Overview
-![SHH Architecture](presentation/images/shh-architecture.png))
+![SHH Architecture](presentation/images/shh-architecture.png)
 
 ## Demo
-![Demo Video](demo/cjackson42-social-hacking-helper.mp4)
+[Demo Video](demo/cjackson42-social-hacking-helper.mp4)
 
 ## Academic Paper
-![Academic Paper](presentation/final-report/cjackson42-final-report.pdf)
+[Academic Paper](presentation/final-report/cjackson42-final-report.pdf)
 
