@@ -14,6 +14,7 @@ a help desk operator within an organization.
 
 ## Demo
 [Demo Video](demo/cjackson42-social-hacking-helper.mp4)
+<video src="demo/cjackson42-social-hacking-helper.mp4" width="720" height="480" controls>Your browser doesn't support video.</video>
 
 ## Academic Paper
 [Academic Paper](presentation/final-report/cjackson42-final-report.pdf)
