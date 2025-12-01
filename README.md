@@ -16,5 +16,5 @@ a help desk operator within an organization.
 ![Demo Video](demo/cjackson42-social-hacking-helper.mp4)
 
 ## Academic Paper
-![Academic Paper](presentation/final-report/cajckson42-final-report.pdf)
+![Academic Paper](presentation/final-report/cjackson42-final-report.pdf)
 
